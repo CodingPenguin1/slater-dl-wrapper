@@ -1,7 +1,0 @@
-Metadata-Version: 2.1
-Name: slater-dl-wrapper
-Version: 0.0.2
-Summary: A wrapper for PyTorch to make it easier to train and evaluate models
-Home-page: https://github.com/CodingPenguin1/slater-dl-wrapper
-Author: Ryan Slater
-License-File: LICENSE
