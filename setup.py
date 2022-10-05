@@ -7,7 +7,7 @@ long_description = (this_directory / 'README.md').read_text()
 
 setuptools.setup(
     name='slater_dl_wrapper',
-    version='0.0.5',
+    version='0.0.6',
     author='Ryan Slater',
     author_email='ryan.j.slater.2@gmail.com',
     description='A wrapper for PyTorch to make it easier to train and evaluate models',
